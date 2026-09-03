@@ -5,7 +5,7 @@ This is free software available under the MIT License. Read the Copyright.md fil
 
 Source: This project was built from version 2.9.6 of the libxml2 code base. URL: http://www.xmlsoft.org/
 
-Build enviroment: Visual Studio 2019. Compiled for C++ 17. Generates a static library.
+Build enviroment: Visual Studio 2026. Compiled for C++ 17. Generates a static library.
 
 Notes:
 
